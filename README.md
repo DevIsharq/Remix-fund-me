@@ -36,7 +36,7 @@ Remix Fund Me is a smart contract project that allows users to create and fund c
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/remix-fund-me.git
+   git clone https://github.com/DevIsharq/remix-fund-me.git
    cd remix-fund-me
    ```
 
